@@ -20,3 +20,9 @@ Run build mode:
 npm run build
 npm run start
 ```
+
+Run e2e: (make sure to have the app running locally before running the command)
+
+```bash
+npm run test:e2e
+```
